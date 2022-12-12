@@ -58,7 +58,7 @@ nav {
   padding-top: 100px;
   display: flex;
   justify-content: center;
-  height: 40vh;
+  height: 50vh;
 }
 
 h1{
@@ -79,7 +79,7 @@ h1{
 }
 
 #section-projects-2 {
-  height: 60vh;
+  height: 50vh;
 }
 
 #container-projects-2 {
@@ -91,9 +91,7 @@ h1{
 
 #section-projects-2 .card {
   margin: 30px;
-  width: 30%;
-  max-width: 550px;
-  min-width: 200px;
+  max-width: 20%;
 }
 
 #section-contact {
